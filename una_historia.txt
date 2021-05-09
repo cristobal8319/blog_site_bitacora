@@ -3,3 +3,5 @@ Hola mi nombre es Cristo Gallegos
 Soy profesor de git y github
 
 Hola mundo, me encanta viajar porel mundo
+
+Me gusta el arroz con pollo
